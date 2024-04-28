@@ -1,2 +1,2 @@
 # derender-core
-We are developing, based on metaplex
+We are developing based on metaplex
